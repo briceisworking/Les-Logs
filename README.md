@@ -31,3 +31,14 @@ Choisis l'un des outils mentionnés (par exemple, journalctl si tu es sur Linux,
 -**3eme événements** : Erreur qui me parait plutot grave mais comme je sais pas trop ce que ca veut dire c'est dans les mains de Dieu maintenant
 ![LOGS3](LOGS3.png)
 
+# CHALLENGE
+
+- **Les requêtes réussies (code 200)**
+![LOGS1_WEB](LOGS1_WEB.png)
+
+- **Les erreurs 404 (page non trouvée)**
+![LOGS2_WEB](LOGS2_WEB.png)
+
+- **Les adresses IP les plus fréquentes**
+J'ai fais les requetes curl depuis le serveur Debian directement, donc les seuls adresses sont celle du localhost
+![LOGS3_WEB](LOGS3_WEB.png)
